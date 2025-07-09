@@ -1,0 +1,26 @@
+[
+  {
+    "user": {
+      "id": "user_admin",
+      "username": "admin",
+      "email": "admin@company.com",
+      "role": {
+        "id": "role_admin",
+        "name": "Administrator",
+        "permissions": {
+          "reports": "write",
+          "toc": "write",
+          "chat": "write",
+          "prompts": "write",
+          "users": "write"
+        }
+      },
+      "isActive": true,
+      "createdAt": "2025-07-07T00:00:00.000Z",
+      "updatedAt": "2025-07-08T07:24:12.026Z",
+      "lastLogin": "2025-07-08T07:24:12.026Z"
+    },
+    "token": "auth_8cistg9il1qmcuhm8ny",
+    "expiresAt": "2025-07-09T12:09:34.558Z"
+  }
+]

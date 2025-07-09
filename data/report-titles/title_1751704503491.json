@@ -1,0 +1,18 @@
+{
+  "title": "Car sharing market",
+  "description": "Car sharing market",
+  "status": "in-progress",
+  "priority": "medium",
+  "assignedTo": "ABC",
+  "category": "Technology",
+  "deadline": "2025-07-07",
+  "tags": [
+    "asd"
+  ],
+  "estimatedPages": 123,
+  "clientName": "GMI",
+  "notes": "",
+  "id": "title_1751704503491",
+  "createdAt": "2025-07-05T08:35:03.491Z",
+  "updatedAt": "2025-07-05T08:35:03.491Z"
+}

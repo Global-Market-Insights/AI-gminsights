@@ -1,0 +1,347 @@
+{
+  "reportId": "global-deployable-military-shelters-market-analysis-2024-2030",
+  "reportSlug": "global-deployable-military-shelters-market-analysis-2024-2030",
+  "items": [
+    {
+      "id": "1",
+      "title": "Executive Summary",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "id": "1.1",
+      "title": "Market Overview",
+      "level": 2,
+      "order": 2,
+      "parentId": "1"
+    },
+    {
+      "id": "1.2",
+      "title": "Key Findings",
+      "level": 2,
+      "order": 3,
+      "parentId": "1"
+    },
+    {
+      "id": "1.3",
+      "title": "Market Size and Growth Prospects",
+      "level": 2,
+      "order": 4,
+      "parentId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Methodology and Scope",
+      "level": 1,
+      "order": 5
+    },
+    {
+      "id": "2.1",
+      "title": "Research Approach",
+      "level": 2,
+      "order": 6,
+      "parentId": "2"
+    },
+    {
+      "id": "2.2",
+      "title": "Data Sources",
+      "level": 2,
+      "order": 7,
+      "parentId": "2"
+    },
+    {
+      "id": "2.3",
+      "title": "Market Definitions",
+      "level": 2,
+      "order": 8,
+      "parentId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Industry Insights",
+      "level": 1,
+      "order": 9
+    },
+    {
+      "id": "3.1",
+      "title": "Introduction to Deployable Military Shelters",
+      "level": 2,
+      "order": 10,
+      "parentId": "3"
+    },
+    {
+      "id": "3.2",
+      "title": "Market Drivers and Restraints",
+      "level": 2,
+      "order": 11,
+      "parentId": "3"
+    },
+    {
+      "id": "3.3",
+      "title": "Emerging Trends and Technologies",
+      "level": 2,
+      "order": 12,
+      "parentId": "3"
+    },
+    {
+      "id": "3.4",
+      "title": "Regulatory Framework",
+      "level": 2,
+      "order": 13,
+      "parentId": "3"
+    },
+    {
+      "id": "4",
+      "title": "Competitive Landscape",
+      "level": 1,
+      "order": 14
+    },
+    {
+      "id": "4.1",
+      "title": "Competitor Overview",
+      "level": 2,
+      "order": 15,
+      "parentId": "4"
+    },
+    {
+      "id": "4.2",
+      "title": "Market Share Analysis",
+      "level": 2,
+      "order": 16,
+      "parentId": "4"
+    },
+    {
+      "id": "4.3",
+      "title": "Strategic Developments and Collaborations",
+      "level": 2,
+      "order": 17,
+      "parentId": "4"
+    },
+    {
+      "id": "5",
+      "title": "Market Estimates by Product Type",
+      "level": 1,
+      "order": 18
+    },
+    {
+      "id": "5.1",
+      "title": "Introduction to Product Types",
+      "level": 2,
+      "order": 19,
+      "parentId": "5"
+    },
+    {
+      "id": "5.2",
+      "title": "Small Shelters",
+      "level": 2,
+      "order": 20,
+      "parentId": "5"
+    },
+    {
+      "id": "5.3",
+      "title": "Medium Shelters",
+      "level": 2,
+      "order": 21,
+      "parentId": "5"
+    },
+    {
+      "id": "5.4",
+      "title": "Large Shelters",
+      "level": 2,
+      "order": 22,
+      "parentId": "5"
+    },
+    {
+      "id": "6",
+      "title": "Market Estimates by Application",
+      "level": 1,
+      "order": 23
+    },
+    {
+      "id": "6.1",
+      "title": "Command and Control",
+      "level": 2,
+      "order": 24,
+      "parentId": "6"
+    },
+    {
+      "id": "6.2",
+      "title": "Medical Facilities",
+      "level": 2,
+      "order": 25,
+      "parentId": "6"
+    },
+    {
+      "id": "6.3",
+      "title": "Accommodation and Storage",
+      "level": 2,
+      "order": 26,
+      "parentId": "6"
+    },
+    {
+      "id": "6.4",
+      "title": "Other Applications",
+      "level": 2,
+      "order": 27,
+      "parentId": "6"
+    },
+    {
+      "id": "7",
+      "title": "Market Estimates by Region",
+      "level": 1,
+      "order": 28
+    },
+    {
+      "id": "7.1",
+      "title": "North America",
+      "level": 2,
+      "order": 29,
+      "parentId": "7"
+    },
+    {
+      "id": "7.2",
+      "title": "Europe",
+      "level": 2,
+      "order": 30,
+      "parentId": "7"
+    },
+    {
+      "id": "7.3",
+      "title": "Asia Pacific",
+      "level": 2,
+      "order": 31,
+      "parentId": "7"
+    },
+    {
+      "id": "7.4",
+      "title": "Middle East and Africa",
+      "level": 2,
+      "order": 32,
+      "parentId": "7"
+    },
+    {
+      "id": "7.5",
+      "title": "Latin America",
+      "level": 2,
+      "order": 33,
+      "parentId": "7"
+    },
+    {
+      "id": "8",
+      "title": "Company Profiles",
+      "level": 1,
+      "order": 34
+    },
+    {
+      "id": "8.1",
+      "title": "Company A",
+      "level": 2,
+      "order": 35,
+      "parentId": "8"
+    },
+    {
+      "id": "8.2",
+      "title": "Company B",
+      "level": 2,
+      "order": 36,
+      "parentId": "8"
+    },
+    {
+      "id": "8.3",
+      "title": "Company C",
+      "level": 2,
+      "order": 37,
+      "parentId": "8"
+    },
+    {
+      "id": "8.4",
+      "title": "Other Key Players",
+      "level": 2,
+      "order": 38,
+      "parentId": "8"
+    },
+    {
+      "id": "9",
+      "title": "Market Outlook and Future Prospects",
+      "level": 1,
+      "order": 39
+    },
+    {
+      "id": "9.1",
+      "title": "Growth Opportunities",
+      "level": 2,
+      "order": 40,
+      "parentId": "9"
+    },
+    {
+      "id": "9.2",
+      "title": "Challenges and Limitations",
+      "level": 2,
+      "order": 41,
+      "parentId": "9"
+    },
+    {
+      "id": "9.3",
+      "title": "Future Market Trends",
+      "level": 2,
+      "order": 42,
+      "parentId": "9"
+    },
+    {
+      "id": "10",
+      "title": "Conclusion",
+      "level": 1,
+      "order": 43
+    },
+    {
+      "id": "10.1",
+      "title": "Summary of Key Findings",
+      "level": 2,
+      "order": 44,
+      "parentId": "10"
+    },
+    {
+      "id": "10.2",
+      "title": "Recommendations for Stakeholders",
+      "level": 2,
+      "order": 45,
+      "parentId": "10"
+    },
+    {
+      "id": "11",
+      "title": "Appendix",
+      "level": 1,
+      "order": 46
+    },
+    {
+      "id": "11.1",
+      "title": "Glossary of Terms",
+      "level": 2,
+      "order": 47,
+      "parentId": "11"
+    },
+    {
+      "id": "11.2",
+      "title": "Research Methodology",
+      "level": 2,
+      "order": 48,
+      "parentId": "11"
+    },
+    {
+      "id": "11.3",
+      "title": "Data Sources",
+      "level": 2,
+      "order": 49,
+      "parentId": "11"
+    },
+    {
+      "id": "11.4",
+      "title": "Market Size and Growth Calculations",
+      "level": 2,
+      "order": 50,
+      "parentId": "11"
+    }
+  ],
+  "createdAt": "2025-07-06T17:07:57.832Z",
+  "updatedAt": "2025-07-06T17:09:17.716Z"
+}

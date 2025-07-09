@@ -1,0 +1,109 @@
+{
+  "id": "default_config",
+  "name": "Default Configuration",
+  "description": "Default AI prompt configuration for market research reports",
+  "prompts": [
+    {
+      "key": "title",
+      "label": "Report Title",
+      "prompt": "Generate a professional market research report title for {market}. Include forecast years (2024-2030) and make it SEO-friendly. Format: \"Global [Market Name] Market Analysis [Years]\"",
+      "enabled": true,
+      "category": "basic"
+    },
+    {
+      "key": "metaDescription",
+      "label": "Executive Summary",
+      "prompt": "Write a comprehensive executive summary for {market} including current market size, key growth drivers, major trends, challenges, and forecast outlook. Keep it under 200 words.",
+      "enabled": true,
+      "category": "meta"
+    },
+    {
+      "key": "marketSize",
+      "label": "Market Size",
+      "prompt": "Provide the current market size for {market} in USD. Format as \"$X.X Billion\" or \"$X.X Million\". Include the base year (2024).",
+      "enabled": true,
+      "category": "basic"
+    },
+    {
+      "key": "marketSizeForecast",
+      "label": "Market Size Forecast",
+      "prompt": "Provide the forecasted market size for {market} in USD by 2030. Format as \"$X.X Billion\" or \"$X.X Million\". Base the forecast on current growth trends and CAGR projections.",
+      "enabled": true,
+      "category": "basic"
+    },
+    {
+      "key": "cagr",
+      "label": "CAGR",
+      "prompt": "What is the projected CAGR (Compound Annual Growth Rate) for {market} from 2024-2030? Provide only the percentage value like \"15.2%\".",
+      "enabled": true,
+      "category": "basic"
+    },
+    {
+      "key": "category",
+      "label": "Industry Category",
+      "prompt": "What industry category does {market} belong to? Choose from: Technology, Automotive & Transportation, Energy & Environment, Healthcare & Pharmaceuticals, Financial Services, Consumer Goods, Manufacturing, Real Estate. Provide only the category name.",
+      "enabled": true,
+      "category": "basic"
+    },
+    {
+      "key": "targetAudience",
+      "label": "Target Audience",
+      "prompt": "Who is the target audience for a {market} research report? List 3-5 key stakeholders, decision makers, and professionals who would benefit from this research.",
+      "enabled": true,
+      "category": "basic"
+    },
+    {
+      "key": "metaKeywords",
+      "label": "SEO Keywords",
+      "prompt": "Generate 8-10 SEO keywords for {market} research report. Include market-specific terms, industry keywords, and research-related phrases. Separate with commas.",
+      "enabled": false,
+      "category": "meta"
+    },
+    {
+      "key": "reportSummary.marketSize",
+      "label": "Market Size Analysis",
+      "prompt": "Provide detailed market size analysis for {market}. Include historical data (2020-2023), current valuation (2024), growth projections (2025-2030), regional breakdown, and key factors driving market expansion.",
+      "enabled": false,
+      "category": "summary"
+    },
+    {
+      "key": "reportSummary.marketShare",
+      "label": "Market Share Analysis",
+      "prompt": "Analyze the market share distribution in {market}. Include top 5-7 leading companies, their approximate market share percentages, competitive positioning, and recent market movements.",
+      "enabled": false,
+      "category": "summary"
+    },
+    {
+      "key": "reportSummary.marketAnalysis",
+      "label": "Market Analysis",
+      "prompt": "Conduct comprehensive market analysis for {market}. Cover market dynamics, key growth drivers, major restraints, emerging opportunities, potential threats, and regulatory landscape.",
+      "enabled": false,
+      "category": "summary"
+    },
+    {
+      "key": "reportSummary.marketTrends",
+      "label": "Market Trends",
+      "prompt": "Identify current and emerging trends in {market}. Include technological innovations, consumer behavior shifts, regulatory changes, sustainability trends, and disruptive technologies.",
+      "enabled": false,
+      "category": "summary"
+    },
+    {
+      "key": "reportSummary.marketPlayers",
+      "label": "Key Market Players",
+      "prompt": "List and analyze key players in {market}. Include company profiles, market strategies, recent developments, partnerships, product launches, and competitive advantages for top 7-10 companies.",
+      "enabled": false,
+      "category": "summary"
+    },
+    {
+      "key": "tableOfContents",
+      "label": "Table of Contents Generator",
+      "prompt": "Generate a comprehensive table of contents for a market research report on \"{market}\". Format each line as: Chapter/Section Number | Title | Level (1, 2, or 3). Use the format exactly like: \"1|Methodology and Scope|1\" or \"1.1|Market scope and definition|2\". Include chapters on methodology, executive summary, industry insights, competitive landscape, market estimates by different segments (product type, application, region), and company profiles. Make it comprehensive with proper numbering and hierarchy.",
+      "enabled": true,
+      "category": "basic"
+    }
+  ],
+  "createdAt": "2025-07-06T00:00:00.000Z",
+  "updatedAt": "2025-07-06T00:00:00.000Z",
+  "isDefault": true,
+  "isActive": true
+}

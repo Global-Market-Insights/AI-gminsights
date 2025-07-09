@@ -1,0 +1,63 @@
+[
+  {
+    "id": "user_admin",
+    "username": "admin",
+    "email": "admin@company.com",
+    "password": "admin123",
+    "role": {
+      "id": "role_admin",
+      "name": "Administrator",
+      "permissions": {
+        "reports": "write",
+        "toc": "write",
+        "chat": "write",
+        "prompts": "write",
+        "users": "write"
+      }
+    },
+    "isActive": true,
+    "createdAt": "2025-07-07T00:00:00.000Z",
+    "updatedAt": "2025-07-08T12:09:34.556Z",
+    "lastLogin": "2025-07-08T12:09:34.556Z"
+  },
+  {
+    "id": "user_editor",
+    "username": "editor",
+    "email": "editor@company.com",
+    "password": "editor123",
+    "role": {
+      "id": "role_editor",
+      "name": "Editor",
+      "permissions": {
+        "reports": "write",
+        "toc": "write",
+        "chat": "write",
+        "prompts": "read",
+        "users": "invisible"
+      }
+    },
+    "isActive": true,
+    "createdAt": "2025-07-07T00:00:00.000Z",
+    "updatedAt": "2025-07-07T00:00:00.000Z"
+  },
+  {
+    "id": "user_viewer",
+    "username": "viewer",
+    "email": "viewer@company.com",
+    "password": "viewer123",
+    "role": {
+      "id": "role_viewer",
+      "name": "Viewer",
+      "permissions": {
+        "reports": "read",
+        "toc": "read",
+        "chat": "read",
+        "prompts": "invisible",
+        "users": "invisible"
+      }
+    },
+    "isActive": true,
+    "createdAt": "2025-07-07T00:00:00.000Z",
+    "updatedAt": "2025-07-07T00:00:00.000Z"
+  }
+]

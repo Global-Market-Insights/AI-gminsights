@@ -1,0 +1,35 @@
+[
+  {
+    "id": "role_admin",
+    "name": "Administrator",
+    "permissions": {
+      "reports": "write",
+      "toc": "write",
+      "chat": "write",
+      "prompts": "write",
+      "users": "write"
+    }
+  },
+  {
+    "id": "role_editor",
+    "name": "Editor",
+    "permissions": {
+      "reports": "write",
+      "toc": "write",
+      "chat": "write",
+      "prompts": "read",
+      "users": "invisible"
+    }
+  },
+  {
+    "id": "role_viewer",
+    "name": "Viewer",
+    "permissions": {
+      "reports": "read",
+      "toc": "read",
+      "chat": "read",
+      "prompts": "invisible",
+      "users": "invisible"
+    }
+  }
+]
